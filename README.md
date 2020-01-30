@@ -1,3 +1,4 @@
 ### DataExtraction
 - Selenium 
 - BeautifulSoup 
+- Requests
