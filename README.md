@@ -2,3 +2,6 @@
 - Selenium 
 - BeautifulSoup 
 - Requests
+- Scrapy
+- URLLIB
+
